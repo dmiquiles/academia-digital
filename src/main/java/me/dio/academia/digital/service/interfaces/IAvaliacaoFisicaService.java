@@ -1,4 +1,4 @@
-package me.dio.academia.digital.service;
+package me.dio.academia.digital.service.interfaces;
 
 import me.dio.academia.digital.entity.AvaliacaoFisica;
 import me.dio.academia.digital.entity.form.AvaliacaoFisicaForm;
